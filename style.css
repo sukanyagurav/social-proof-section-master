@@ -86,7 +86,6 @@ body {
 
 .rating-star img {
     animation: bounce 1s ease infinite;
-    cursor: pointer;
 }
 
 
